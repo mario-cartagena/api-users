@@ -1,0 +1,13 @@
+{
+    "users":[
+        {
+            "id": 1,
+            "username": "Mario Cartagena",
+            "age": "28",
+            "email": "jhonmariocartagena@gmail.com",
+            "address": "Avenida siempre viva",
+            "password": "1234",
+            "phone": "12345678"
+        }
+    ]
+}
